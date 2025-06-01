@@ -1,4 +1,3 @@
-%% Adaptive Line Enhancement(LMS algorithm)
 clear;clc;
 tic
 n=1:30000;
