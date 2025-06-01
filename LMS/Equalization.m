@@ -1,4 +1,3 @@
-%% Channel Equalization(LMS algorithm)
 clear;clc;
 tic
 sigma2=1e-3;
