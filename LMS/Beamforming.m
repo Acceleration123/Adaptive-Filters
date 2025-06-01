@@ -1,4 +1,3 @@
-%% Beamforming(LMS algorithm)
 clear;clc;
 tic
 n=1:30000;
