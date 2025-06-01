@@ -1,4 +1,3 @@
-%% Modeling(LMS algorithm)
 clear;clc;
 tic
 misa=input("enter the misadjustment:");
